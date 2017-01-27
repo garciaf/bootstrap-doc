@@ -14,385 +14,385 @@
     
         {
             "title" : "Accessibility",
-            "url"   : "/getting-started/accessibility/"
+            "url"   : "/bootstrap-doc/getting-started/accessibility/"
         } ,
     
 
     
         {
             "title" : "Alerts",
-            "url"   : "/components/alerts/"
+            "url"   : "/bootstrap-doc/components/alerts/"
         } ,
     
 
     
         {
             "title" : "Approach",
-            "url"   : "/extend/approach/"
+            "url"   : "/bootstrap-doc/extend/approach/"
         } ,
     
 
     
         {
             "title" : "Best practices",
-            "url"   : "/getting-started/best-practices/"
+            "url"   : "/bootstrap-doc/getting-started/best-practices/"
         } ,
     
 
     
         {
             "title" : "Bootstrap &middot; The world's most popular mobile-first and responsive front-end framework.",
-            "url"   : "/"
+            "url"   : "/bootstrap-doc/"
         } ,
     
 
     
         {
             "title" : "Brand guidelines",
-            "url"   : "/about/brand/"
+            "url"   : "/bootstrap-doc/about/brand/"
         } ,
     
 
     
         {
             "title" : "Breadcrumb",
-            "url"   : "/components/breadcrumb/"
+            "url"   : "/bootstrap-doc/components/breadcrumb/"
         } ,
     
 
     
         {
             "title" : "Browsers and devices",
-            "url"   : "/getting-started/browsers-devices/"
+            "url"   : "/bootstrap-doc/getting-started/browsers-devices/"
         } ,
     
 
     
         {
             "title" : "Build tools",
-            "url"   : "/getting-started/build-tools/"
+            "url"   : "/bootstrap-doc/getting-started/build-tools/"
         } ,
     
 
     
         {
             "title" : "Button group",
-            "url"   : "/components/button-group/"
+            "url"   : "/bootstrap-doc/components/button-group/"
         } ,
     
 
     
         {
             "title" : "Buttons",
-            "url"   : "/components/buttons/"
+            "url"   : "/bootstrap-doc/components/buttons/"
         } ,
     
 
     
         {
             "title" : "Cards",
-            "url"   : "/components/card/"
+            "url"   : "/bootstrap-doc/components/card/"
         } ,
     
 
     
         {
             "title" : "Carousel",
-            "url"   : "/components/carousel/"
+            "url"   : "/bootstrap-doc/components/carousel/"
         } ,
     
 
     
         {
             "title" : "Code",
-            "url"   : "/content/code/"
+            "url"   : "/bootstrap-doc/content/code/"
         } ,
     
 
     
         {
             "title" : "Collapse",
-            "url"   : "/components/collapse/"
+            "url"   : "/bootstrap-doc/components/collapse/"
         } ,
     
 
     
         {
             "title" : "Contents",
-            "url"   : "/getting-started/contents/"
+            "url"   : "/bootstrap-doc/getting-started/contents/"
         } ,
     
 
     
         {
             "title" : "Customization options",
-            "url"   : "/getting-started/options/"
+            "url"   : "/bootstrap-doc/getting-started/options/"
         } ,
     
 
     
         {
             "title" : "Download",
-            "url"   : "/getting-started/download/"
+            "url"   : "/bootstrap-doc/getting-started/download/"
         } ,
     
 
     
         {
             "title" : "Dropdowns",
-            "url"   : "/components/dropdowns/"
+            "url"   : "/bootstrap-doc/components/dropdowns/"
         } ,
     
 
     
         {
             "title" : "Examples",
-            "url"   : "/examples/"
+            "url"   : "/bootstrap-doc/examples/"
         } ,
     
 
     
         {
             "title" : "Extend",
-            "url"   : "/extend/"
+            "url"   : "/bootstrap-doc/extend/"
         } ,
     
 
     
         {
             "title" : "Figures",
-            "url"   : "/content/figures/"
+            "url"   : "/bootstrap-doc/content/figures/"
         } ,
     
 
     
         {
             "title" : "Flexbox",
-            "url"   : "/getting-started/flexbox/"
+            "url"   : "/bootstrap-doc/getting-started/flexbox/"
         } ,
     
 
     
         {
             "title" : "Flexbox grid system",
-            "url"   : "/layout/flexbox-grid/"
+            "url"   : "/bootstrap-doc/layout/flexbox-grid/"
         } ,
     
 
     
         {
             "title" : "Forms",
-            "url"   : "/components/forms/"
+            "url"   : "/bootstrap-doc/components/forms/"
         } ,
     
 
     
         {
             "title" : "Grid system",
-            "url"   : "/layout/grid/"
+            "url"   : "/bootstrap-doc/layout/grid/"
         } ,
     
 
     
         {
             "title" : "History",
-            "url"   : "/about/history/"
+            "url"   : "/bootstrap-doc/about/history/"
         } ,
     
 
     
         {
             "title" : "Icon fonts",
-            "url"   : "/extend/icon-fonts/"
+            "url"   : "/bootstrap-doc/extend/icon-fonts/"
         } ,
     
 
     
         {
             "title" : "Images",
-            "url"   : "/content/images/"
+            "url"   : "/bootstrap-doc/content/images/"
         } ,
     
 
     
         {
             "title" : "Input group",
-            "url"   : "/components/input-group/"
+            "url"   : "/bootstrap-doc/components/input-group/"
         } ,
     
 
     
         {
             "title" : "Introduction",
-            "url"   : "/getting-started/introduction/"
+            "url"   : "/bootstrap-doc/getting-started/introduction/"
         } ,
     
 
     
         {
             "title" : "JavaScript",
-            "url"   : "/getting-started/javascript/"
+            "url"   : "/bootstrap-doc/getting-started/javascript/"
         } ,
     
 
     
         {
             "title" : "Jumbotron",
-            "url"   : "/components/jumbotron/"
+            "url"   : "/bootstrap-doc/components/jumbotron/"
         } ,
     
 
     
         {
             "title" : "License FAQs",
-            "url"   : "/about/license/"
+            "url"   : "/bootstrap-doc/about/license/"
         } ,
     
 
     
         {
             "title" : "List group",
-            "url"   : "/components/list-group/"
+            "url"   : "/bootstrap-doc/components/list-group/"
         } ,
     
 
     
         {
             "title" : "Media object",
-            "url"   : "/layout/media-object/"
+            "url"   : "/bootstrap-doc/layout/media-object/"
         } ,
     
 
     
         {
             "title" : "Migrating to v4",
-            "url"   : "/migration/"
+            "url"   : "/bootstrap-doc/migration/"
         } ,
     
 
     
         {
             "title" : "Modal",
-            "url"   : "/components/modal/"
+            "url"   : "/bootstrap-doc/components/modal/"
         } ,
     
 
     
         {
             "title" : "Navbar",
-            "url"   : "/components/navbar/"
+            "url"   : "/bootstrap-doc/components/navbar/"
         } ,
     
 
     
         {
             "title" : "Navs",
-            "url"   : "/components/navs/"
+            "url"   : "/bootstrap-doc/components/navs/"
         } ,
     
 
     
         {
             "title" : "Overview",
-            "url"   : "/layout/overview/"
+            "url"   : "/bootstrap-doc/layout/overview/"
         } ,
     
 
     
         {
             "title" : "Pagination",
-            "url"   : "/components/pagination/"
+            "url"   : "/bootstrap-doc/components/pagination/"
         } ,
     
 
     
         {
             "title" : "Popovers",
-            "url"   : "/components/popovers/"
+            "url"   : "/bootstrap-doc/components/popovers/"
         } ,
     
 
     
         {
             "title" : "Progress",
-            "url"   : "/components/progress/"
+            "url"   : "/bootstrap-doc/components/progress/"
         } ,
     
 
     
         {
             "title" : "Reboot",
-            "url"   : "/content/reboot/"
+            "url"   : "/bootstrap-doc/content/reboot/"
         } ,
     
 
     
         {
             "title" : "Responsive utilities",
-            "url"   : "/layout/responsive-utilities/"
+            "url"   : "/bootstrap-doc/layout/responsive-utilities/"
         } ,
     
 
     
         {
             "title" : "Scrollspy",
-            "url"   : "/components/scrollspy/"
+            "url"   : "/bootstrap-doc/components/scrollspy/"
         } ,
     
 
     
         {
             "title" : "Tables",
-            "url"   : "/content/tables/"
+            "url"   : "/bootstrap-doc/content/tables/"
         } ,
     
 
     
         {
             "title" : "Tags",
-            "url"   : "/components/tag/"
+            "url"   : "/bootstrap-doc/components/tag/"
         } ,
     
 
     
         {
             "title" : "Team",
-            "url"   : "/about/team/"
+            "url"   : "/bootstrap-doc/about/team/"
         } ,
     
 
     
         {
             "title" : "Tooltips",
-            "url"   : "/components/tooltips/"
+            "url"   : "/bootstrap-doc/components/tooltips/"
         } ,
     
 
     
         {
             "title" : "Translations",
-            "url"   : "/about/translations/"
+            "url"   : "/bootstrap-doc/about/translations/"
         } ,
     
 
     
         {
             "title" : "Typography",
-            "url"   : "/content/typography/"
+            "url"   : "/bootstrap-doc/content/typography/"
         } ,
     
 
     
         {
             "title" : "Utility classes",
-            "url"   : "/components/utilities/"
+            "url"   : "/bootstrap-doc/components/utilities/"
         } ,
     
 
     
         {
             "title" : "Wall of browser bugs",
-            "url"   : "/browser-bugs/"
+            "url"   : "/bootstrap-doc/browser-bugs/"
         } 
     
 
